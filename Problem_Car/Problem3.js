@@ -23,3 +23,5 @@ function sortCarModels(inventory){
 
 
 }
+
+export default sortCarModels;
