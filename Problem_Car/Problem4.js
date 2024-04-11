@@ -14,4 +14,4 @@ function getCarYears(inventory){
     return carYears;
 }
 
-export default carYearList;
+export default getCarYears;
