@@ -1,5 +1,5 @@
-import findCarById from '../Problem/Problem1.js';
-import inventory from '../Inventory/inventory.js';
+import findCarById from '../Problem_Car/Problem1.js';
+import inventory from '../Cars_Inventory/inventory.js';
 
 const car = findCarById(inventory, 33);
 
