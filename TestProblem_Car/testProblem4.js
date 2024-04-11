@@ -1,7 +1,7 @@
-import carYears from '../Problem_Car/Problem4.js';
+import getCarYears from '../Problem_Car/Problem4.js';
 import inventory from '../Car_Inventory/inventory.js';
 
 
-const carYearsList = carYears(inventory);
+const carYearsList = getCarYears(inventory);
 
 console.log(carYearsList);
